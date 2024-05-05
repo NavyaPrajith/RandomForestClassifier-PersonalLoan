@@ -1,0 +1,3 @@
+This project leverages random forest, an ensemble learning technique, to analyze personal loan data and predict the likelihood of loan acceptance based on individual characteristics and banking behaviors. Random forest constructs multiple decision trees and aggregates their predictions to produce a more accurate and robust model for predicting personal loan acceptance.
+
+By evaluating the performance of the random forest model and analyzing feature importance, the project aims to provide insights into the factors influencing personal loan acceptance and develop a predictive tool to assist banking institutions in targeting potential loan customers effectively.
